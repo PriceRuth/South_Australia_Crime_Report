@@ -11,5 +11,5 @@ Insights:
 * Adelaide has the highest offence count in all suburbs/areas.
 * From 2022-2023, there are 6075 offences count against property in Adelaide and 1762 offences against the person.
 * Theft and Related Offences is the top offence against property in Adelaide.
-* Acts Intended to Cause Injusry is the top offence againts the person in Adelaide.
+* Acts Intended to Cause Injury is the top offence againts the person in Adelaide.
 * An increase of about 3921 cases of offences against property in 2023 from 2022.
